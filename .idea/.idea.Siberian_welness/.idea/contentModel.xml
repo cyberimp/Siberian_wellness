@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\5\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\5\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\5\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Siberian_welness.246379510.00" t="ExcludeRecursive" />
+    <e p="C:\Users\5\Siberian_welness" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="CameraBack.cs" t="Include" />
+          <e p="CameraSwitch.cs" t="Include" />
+          <e p="ColorList.cs" t="Include" />
+          <e p="ColorSetter.cs" t="Include" />
+          <e p="MeshLayout.cs" t="Include" />
+          <e p="OnlyGroup.cs" t="Include" />
+          <e p="PanelSwitcher.cs" t="Include" />
+          <e p="UserSettings.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Siberian_welness.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
